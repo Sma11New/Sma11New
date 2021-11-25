@@ -1,7 +1,8 @@
 ### Hi there 👋             <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sma11New&show_icons=true&theme=radical">
-- 🌱 I’m currently learning **Java**
-- 👯 I’m looking to collaborate on **Tools Development**
-- 🤔 I’m looking for help with **Python MultiThread**
-- 🍔 My blog: http://blog.sma11new.com
-- 💬 Ask me about **Python** maybe
+- 🌱 我是谁？：**一个刚毕业的安全菜鸡**
+- 🎧 正在学习：**Java、挖洞**
+- 👯 期望合作：**安全工具开发**
+- 🤔 寻求帮助：**Python多进程多线程并用**
+- 🍔 我的博客：**http://blog.sma11new.com**
+- 💬 可以问我：**Python相关**，Maybe
 
