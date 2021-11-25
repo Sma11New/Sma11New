@@ -1,19 +1,8 @@
-### Hi there 👋
-
-<!--
-**Sma11New/Sma11New** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img src="https://camo.githubusercontent.com/a54dbde2a11265f104db49efa21989af4bfef395fc3e70f9fc48359b9e2d43e8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d68616877756c2673686f775f69636f6e733d74727565267468656d653d7261646963616c" width="50%" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Sma11New&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;">
+### Hi there 👋             <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sma11New&show_icons=true&theme=radical">
+- 🔭 I’m currently working on **FBI**
+- 🌱 I’m currently learning **Python、Java**
+- 👯 I’m looking to collaborate on **Tools Development**
+- 🤔 I’m looking for help with **Python MultiThread**
+- 🍔 My blog: http://blog.sma11new.com
+- 💬 Ask me about Python
 
