@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Sma11New&show_icons=true&theme=radical">
-
 ### Hi there Info👋            
 - 🌱 **我是谁？：刚毕业的安全菜狗**   
 - 🎧 **正在学习：Java、挖洞**
@@ -11,3 +9,5 @@
 - 🌱 **正在做？：ip2domain工具完善（v0.2）**
 - 🎧 **计划做？：基于需求使用Java开发BP插件**
 - 🤔 **无法做？：webEye改进（Python多进程多线程并用）**
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sma11New&show_icons=true&theme=radical">
