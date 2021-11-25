@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-**Sma11New/Sma11New** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.![Wh0ale's github stats](https://github-readme-stats.vercel.app/api?username=Wh0ale&show_icons=true&theme=merko)
+**Sma11New/Sma11New** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Wh0ale's github stats](https://github-readme-stats.vercel.app/api?username=Sma11New&show_icons=true&theme=merko)
 
 Here are some ideas to get you started:
 
