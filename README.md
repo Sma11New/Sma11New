@@ -8,4 +8,4 @@
 ### Hi there 👋
 - 🌱 **正在做？：ip2domain工具完善（v0.2）**
 - 🎧 **计划做？：基于需求使用Java开发BP插件**
-- 🤔 **做不了？：webEye改进（Python多进程多线程并用）**
+- 🤔 **无法做？：webEye改进（Python多进程多线程并用）**
