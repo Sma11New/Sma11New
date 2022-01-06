@@ -5,7 +5,7 @@
 ### 🎈 NEWS
   * **~~ip2domain工具完善（v0.2）~~  【√】**
   * **JavaSE相关内容**
-  * **基于需求使用Java开发BP插件**
+  * **BP copyForPython插件编写**
   * **CS wifiPass插件编写**
 
 
