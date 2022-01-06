@@ -1,5 +1,5 @@
 ### Some INFO👋            <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sma11New&show_icons=true&theme=radical">
-- 🌱 **我是谁？：刚毕业的安全菜狗**   
+- 🌱 **我是谁？：菜🐕一枚、一枚菜🐕**   
 - 🍔 **我的博客：https://blog.sma11new.com**
 
 ### Some NEWS👋
