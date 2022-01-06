@@ -3,9 +3,9 @@
   * **我的博客：https://blog.sma11new.com**
 
 ### 🎈 NEWS
-- [x] **~~ip2domain工具完善（v0.2）~~**
-- [ ] **JavaSE相关内容**
-- [ ] **BP copyForPython插件编写**
-- [ ] **CS wifiPass插件编写**
+* - [x] **~~ip2domain工具完善（v0.2）~~**
+* - [ ] **JavaSE相关内容**
+* - [ ] **BP copyForPython插件编写**
+* - [ ] **CS wifiPass插件编写**
 
 
