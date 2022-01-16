@@ -4,8 +4,9 @@
 
 ### 🎈 NEWS
 * - [x] **~~ip2domain工具完善（v0.2）~~**
-* - [ ] **JavaSE相关内容**
+* - [x] **~~BP PrivateIpScan插件编写（v0.1）~~**
 * - [ ] **BP copyForPython插件编写**
 * - [ ] **CS wifiPass插件编写**
+* - [ ] **JavaSE相关内容**
 
 
